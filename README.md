@@ -16,4 +16,4 @@ Make sure pcode file (.pseudo to allow VS Code syntax highlighting) is in the sa
 Open a Terminal to that folder
 
 Run:
-    ./pcompile your_file_name
+    `./pcompile your_file_name`
