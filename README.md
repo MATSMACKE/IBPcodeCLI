@@ -1,6 +1,6 @@
 # IB Pcode CLI
 
-This tool translates IB Pseudocode to JavaScript.
+A tool to translate IB Pseudocode to JavaScript.
 
 ## Credit:
 
