@@ -1,0 +1,19 @@
+{
+  "name": "ibpcodecli",
+  "version": "1.0.0",
+  "description": "This tool translates IB Pseudocode to JavaScript.",
+  "main": "pcompile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MATSMACKE/IBPcodeCLI.git"
+  },
+  "author": "Mats Macke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MATSMACKE/IBPcodeCLI/issues"
+  },
+  "homepage": "https://github.com/MATSMACKE/IBPcodeCLI#readme"
+}
