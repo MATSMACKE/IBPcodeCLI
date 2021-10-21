@@ -11,7 +11,7 @@ VS Code (https://code.visualstudio.com/)
 IBCS Pseudocode VS Code Extension (https://marketplace.visualstudio.com/items?itemName=hanzhi713.ibcs-pseudocode&ssr=false#overview)
 
 ## Usage:
-Make sure pcode file (.pseudo to allow VS Code syntax highlighting) is in the same folder as pcompile
+Make sure pcode file (.pseudo to allow VS Code syntax highlighting) is in the same folder as pcode-cli
 
 Open a Terminal to that folder
 
