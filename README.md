@@ -12,7 +12,7 @@ IBCS Pseudocode VS Code Extension (https://marketplace.visualstudio.com/items?it
 
 ## Usage:
 
-Rename `pcode-cli-yourOS` to `pcode-cli`
+Rename `pcode-cli-yourOS-yourCPUarchitecture` to `pcode-cli`
 
 Make sure pcode file (`.pseudo` to allow VS Code syntax highlighting) is in the same folder as `pcode-cli`
 
