@@ -17,7 +17,7 @@ Make sure pcode file (`.pseudo` to allow VS Code syntax highlighting) is in the 
 
 Open a Terminal to that folder.
 
-Run: `./pcode-cli your_file_name` or use the extension
+Run: `./pcode-cli your_file_name` or use [IB Pseudocode Runner VS Code Extension](https://marketplace.visualstudio.com/items?itemName=MatsMacke.ib-pseudocode-runner)
 
 ## Recommended:
 [VS Code](https://code.visualstudio.com/) as a code editor with integrated terminal.
